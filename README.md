@@ -12,3 +12,11 @@ Formula1LapCharts [options]
 ```
 
 ## Options
+
+- `--season <season>`
+
+  Specify the season (year) to analyse (default: current).
+
+- `--race <race>`
+
+  Specify the race to analyse (default: last).
