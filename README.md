@@ -1,6 +1,6 @@
 # Formula 1 Lap Charts
 
-Command-line tool which generates lap-by-lap gap data for charts.
+Command-line tool for generating a lap-by-lap spreadsheet of gaps for charts.
 
 ## Usage
 
