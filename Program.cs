@@ -15,7 +15,7 @@ namespace Formula_1_Lap_Charts
         };
 
         /// <summary>
-        /// Command-line tool which generates lap-by-lap gap data for charts
+        /// Command-line tool for generating a lap-by-lap spreadsheet of gaps for charts
         /// </summary>
         /// <param name="season">Specify the season (year) to analyse</param>
         /// <param name="race">Specify the race to analyse</param>
